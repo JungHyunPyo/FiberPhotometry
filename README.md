@@ -13,6 +13,3 @@ Change path to fp_gui_app.py
 
 Run fp_gui_app.py 
   : python fp_gui_app.py
-
-<img width="3835" height="2112" alt="image" src="https://github.com/user-attachments/assets/b55c4d99-25c8-42f0-a2bc-84b92e3451ce" />
-
