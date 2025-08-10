@@ -1,4 +1,3 @@
-<img width="3835" height="2112" alt="image" src="https://github.com/user-attachments/assets/1ac7b091-7bdd-434e-a19b-482f8ffd06cd" /># FiberPhotometry
 Fiber photometry analysis
 
 Run Anaconda prompt
